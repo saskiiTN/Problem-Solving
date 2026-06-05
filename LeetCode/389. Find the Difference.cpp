@@ -1,4 +1,5 @@
-#include <string.h>
+#include <bits/stdc++.h>
+using namespace std;
 char findTheDifference(char* s, char* t) {
     int lenT = strlen(t);
     int lenS = strlen(s);
