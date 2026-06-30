@@ -9,7 +9,7 @@ int main(){
       cin>>derax[i];
    }
    int result = 0;
-   for(int i = 0 ; i<n-k;i++){
+   for(int i = 0 ; i<n-k+1;i++){
         int drx = 0 ;
         for(int j = i ; j<i+k ; j++){
             drx+=derax[j];
