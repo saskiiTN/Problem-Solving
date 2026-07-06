@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+//intuition : just check how many consecutif similar letter are in the middle
 int main(){
     int t;
     cin>>t;
